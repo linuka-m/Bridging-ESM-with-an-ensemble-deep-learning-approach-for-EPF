@@ -1,0 +1,12 @@
+
+         par=Profit_PSP                     rng=Profit!A3:B30      rdim=1 
+         par=Profit_Bat_1                   rng=Profit!D3:E30      rdim=1 
+         par=Profit_Bat_2                   rng=Profit!G3:H30      rdim=1 
+         par=Generation                   rng=G!A1             rdim=1 cdim=2
+         par=Charging                     rng=Charge!A1        rdim=1 cdim=2
+         par=StoreLevel                   rng=SL!A1            rdim=1 cdim=2
+         par=price_el                     rng=price!A1         rdim=1            
+
+*         par=modelstats                    rng=stats!A2:B9900     rdim=1 cdim=0
+*         par=solvestats                    rng=stats!D2:E9900     rdim=1 cdim=0
+

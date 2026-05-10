@@ -1,0 +1,4 @@
+    set=scen           rng=price_scenarios!B2:B100    rdim=1 
+    set=map_TH         rng=timemap!B2                 rdim=2
+    par=priceup        rng=prices!B2:Z18000           rdim=1 cdim=1
+    

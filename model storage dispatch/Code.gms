@@ -1,9 +1,9 @@
 *Location of intput files
-$setglobal datadir                data\
+$setglobal datadir                data/
 $setglobal DataIn                 InputData
 
 *Location of output files
-$setglobal output_dir   results\
+$setglobal output_dir   results/
 $setglobal result       Results_240713
 
 sets
@@ -49,7 +49,7 @@ $onecho > Import.txt
 $offecho
 
 $onUNDF
-$call GDXXRW I=%datadir%%DataIn%.xlsx O=%datadir%%DataIn%.gdx cmerge=1 @Import.txt
+*$call GDXXRW I=%datadir%%DataIn%.xlsx O=%datadir%%DataIn%.gdx cmerge=1 @Import.txt
 $gdxin %datadir%%DataIn%.gdx
 $LOAD scen
 $LOAD map_TH
