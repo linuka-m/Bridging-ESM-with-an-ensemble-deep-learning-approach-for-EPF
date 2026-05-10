@@ -1,0 +1,10 @@
+Input=GAMSPY_JOB
+ScrDir="/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model storage dispatch/gamspy_workdir/tmpmru63yzv"
+SysDir=/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/gamspy_base
+CurDir=""
+ScriptNext="/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model storage dispatch/gamspy_workdir/tmpmru63yzv/gamsnext.sh"
+AppendLog=1
+License="/Users/linukakoththigoda/Library/Application Support/GAMSPy/gamspy_license.txt"
+ProcDir="/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model storage dispatch/gamspy_workdir/tmpmru63yzv"
+IncrementalMode=2
+NetLicense="/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model storage dispatch/gamspy_workdir/tmpmru63yzv/gamslice.dat"

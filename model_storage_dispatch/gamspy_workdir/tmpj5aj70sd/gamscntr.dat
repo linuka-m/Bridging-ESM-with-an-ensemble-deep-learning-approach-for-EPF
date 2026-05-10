@@ -1,0 +1,101 @@
+53
+1 17594 0 0 535  2.20000000000000E+0001 5  0.00000000000000E+0000 0 0
+212719 0 0 0 105264 54826 0 157893 0 0 0 0
+157897 0 0 0 0 0 0 0
+578947 0
+157897 0 0 0 0 0 0 157896 0 1
+0 0 0 0 0 0 0
+1 4 0
+0 0 20
+ 1.00000000000000E-0004  0.00000000000000E+0000 0
+0  0.00000000000000E+0000 0  0.00000000000000E+0000
+ 1.00000000000000E+0010 2147483647 0
+2011 0
+ 0.00000000000000E+0000 0 1 0  1.00000000000000E+0000 0 0 0 0  1.00000000000000E-0005 0
+1 100
+0 0 0 0 0
+ 0.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/gamsmatr.dat
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/gamsinst.dat
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/cplex.opt
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/gamsstat.dat
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/gamssolu.dat
+
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/gamsdict.dat
+0
+15:49:31
+05/10/26
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/gamspy_base/
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/
+32767 2147483647
+0 0 0 46151 46151 80149
+Academic User                                  G260510+0003Ac-GEN0
+678649kk@eur.nl                                                  0
+07COCTCPGLIPMBPTSBXG                                             0
+1 1 1 0
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/_1XlwWFgxROuTYeYNEqtLhQ.pf
+15 9 4
+LP          4 0
+MIP         4 0
+RMIP        4 0
+NLP         1 0
+MCP         8 0
+MPEC        7 0
+RMPEC       3 0
+CNS         8 0
+DNLP        1 0
+RMINLP      1 0
+MINLP       9 0
+QCP         1 0
+MIQCP       9 0
+RMIQCP      1 0
+EMP         3 0
+CONOPT      1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run
+gmsgenux.out
+CONOPT4     1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0
+gmsgenus.run optconopt.def
+gmsgenux.out
+CONVERT     103011 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gmsgenus.run optconvert.def
+gmsgenux.out
+CPLEX       2011 5 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+GUSS        1001 5 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0
+gmsgenus.run
+gmsgenux.out
+KESTREL     103010 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gmske_us.run
+NLPEC       103001 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0
+gmscvnus.run
+gmscvnux.out
+PATH        103001 5 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+gmsgenus.run
+gmsgenux.out
+SBB         11 5 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+gmssb_us.run
+gmssb_ux.out
+0C0C0C0C0C0C0C0C0C0C                                             0
+GPA112049 9a528bac-c6ad-4c1c-bbae-a04a8dc2e027 N FREEACADEMIC    0
+node:27221503 mem:16 cores:10 ipport:54943 v:2                   0
+MEYCIQCYO6q0aWFWWRnifeenbAJkt3Du5gzSI4YVRC7S0ZcslwIhAPQ0ogUjJk8Vl0
+vnehQvvDsIqnjOBjQ9BwSFrui6P/GVl                                  0
+0 /Users/linukakoththigoda/Library/Application Support/GAMSPy/gamspy_license.txt
+1 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/gamspy_base/gmscmpun.txt
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/_1XlwWFgxROuTYeYNEqtLhQ.dat
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0  1.00000000000000E+0000 0 0
+0 0 0
+0 0 0 1 0
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/Storage_Profit.dylib
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/sbbinfo.dat
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/tmpj5aj70sd/gamscntr.dat
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/
+dat
+ 1.00000000000000E+0299
+
+
+/Users/linukakoththigoda/Documents/GitHub/Bridging-ESM-with-an-ensemble-deep-learning-approach-for-EPF/model_storage_dispatch/gamspy_workdir/_1XlwWFgxROuTYeYNEqtLhQ.gms
+ 5.78947000000000E+0005  0.00000000000000E+0000
